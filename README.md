@@ -56,14 +56,14 @@
     <p>
       <img 
         align="center" 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=aliqyaan&show_icons=true&locale=en&layout=compact" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Hike-12&show_icons=true&locale=en&layout=compact" 
         alt="aliqyaan" 
       />
     </p>
     <p>
       <img 
         align="center" 
-        src="https://github-readme-stats.vercel.app/api?username=aliqyaan&theme=blue-green&hide_border=false&include_all_commits=true&hide_title=true" 
+        src="https://github-readme-stats.vercel.app/api?username=Hike-12&theme=blue-green&hide_border=false&include_all_commits=true&hide_title=true" 
         alt="aliqyaan" 
       />
     </p>
