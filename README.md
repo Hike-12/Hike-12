@@ -69,7 +69,7 @@
     </p>
   </div>
 
-  ![Snake animation](https://raw.githubusercontent.com/Hike-12/Hike-12/main/dist/github-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/Hike-12/Hike-12/main/dist/snake.svg)
 
 
 </div>
