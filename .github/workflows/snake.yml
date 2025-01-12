@@ -1,32 +1,28 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
   schedule:
-    # Runs the workflow every day at midnight
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: '0 0 * * *' # This runs every day at midnight to update the snake
   push:
     branches:
       - main
 
 jobs:
-  generate-snake:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout the repository
-        uses: actions/checkout@v3
-
-      - name: Generate the Snake Animation
-        uses: Platane/snk@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      - name: Generate Snake
+        uses: coding-to-music/github-snake@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
+          github_user: 'Hike-12'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit Snake Image
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: 'Update snake'
+          add: 'snake.svg'
 
-      - name: Commit and Push
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git commit -m "Update snake animation"
-          git push
