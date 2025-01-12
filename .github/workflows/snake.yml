@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *' # This runs every day at midnight to update the snake
+    - cron: '0 0 * * *' # Run every day at midnight to update the snake
   push:
     branches:
       - main
@@ -11,18 +11,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v2
+      
       - name: Generate Snake
-        uses: coding-to-music/github-snake@v2
+        uses: platane/snk@v2
         with:
-          github_user: 'Hike-12'
+          github_user: 'Hike-12'  # Your GitHub username
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit Snake Image
         uses: EndBug/add-and-commit@v7
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: 'Update snake'
+          message: 'Update snake image'
           add: 'snake.svg'
-
