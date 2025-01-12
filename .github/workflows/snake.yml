@@ -18,7 +18,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.Hike-12 }}
+          github_user_name: 'Hike-12'  # Directly set your GitHub username here
 
       - name: Commit Snake Image
         uses: EndBug/add-and-commit@v7
