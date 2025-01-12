@@ -26,4 +26,4 @@ jobs:
           author_name: github-actions
           author_email: github-actions@github.com
           message: 'Update snake image'
-          add: 'dist/github-snake.svg'
+          add: 'dist/snake.svg'
