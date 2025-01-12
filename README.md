@@ -69,9 +69,7 @@
     </p>
   </div>
 
-  <div align="center">
-    ![Snake animation](https://raw.githubusercontent.com/Hike-12/Hike-12/main/dist/github-snake.svg)
-  </div>
+  ![Snake animation](https://raw.githubusercontent.com/Hike-12/Hike-12/main/dist/github-snake.svg)
 
 
 </div>
