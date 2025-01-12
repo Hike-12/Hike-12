@@ -69,5 +69,10 @@
     </p>
   </div>
 
+  <div align="center">
+    <img src="https://github.com/<your-username>/Hike-12/blob/output/dist/snake.svg" alt="Snake animation" />
+  </div>
+
+
 </div>
 
