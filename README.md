@@ -1,3 +1,4 @@
+
 <div style="background-color: black; padding: 20px; border-radius: 10px; color: white;">
 
   <h1 align="center">Hi 👋, I'm Aliqyaan Mahimwala</h1>
@@ -69,8 +70,9 @@
     </p>
   </div>
 
-  ![Snake animation](https://raw.githubusercontent.com/Hike-12/Hike-12/main/dist/snake.svg)
-
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/Hike-12/Hike-12/main/dist/github-snake.svg" alt="Snake animation" />
+  </div>
 
 </div>
 
