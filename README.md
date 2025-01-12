@@ -70,7 +70,8 @@
   </div>
 
   <div align="center">
-    <img src="https://github.com/Hike-12/Hike-12/main/dist/snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/Hike-12/Hike-12.github.io/main/dist/snake.svg
+" alt="Snake animation" />
   </div>
 
 
