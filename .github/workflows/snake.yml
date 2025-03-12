@@ -2,28 +2,24 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Run every day at midnight (optional)
-  push:
-    branches:
-      - main  # Adjust the branch if necessary
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - uses: actions/checkout@v2
+      
+      - uses: Platane/snk@master
+        id: snake-gif
         with:
-          github_user_name: 'Hike-12'  # Directly set your GitHub username here
+          github_user_name: ${{ github.repository_owner }}
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Commit Snake Image
-        uses: EndBug/add-and-commit@v7
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v7.8.0
         with:
-          author_name: github-actions
-          author_email: github-actions@github.com
-          message: 'Update snake image'
-          add: 'dist/snake.svg'
+          branch: output
+          message: 'Generate snake'
