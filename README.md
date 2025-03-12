@@ -3,7 +3,8 @@
   <h3>A passionate web developer from India</h3>
 </div>
 
-<img align="right" alt="coding" width="400" style="border-radius: 10px;" src="https://firebasestorage.googleapis.com/v0/b/basiclogintoapp.appspot.com/o/WhatsApp%20Image%202024-01-29%20at%209.41.34%20PM.jpeg?alt=media&token=4b1d9756-811f-4b9e-aa30-789680a82c9f" />
+<img align="right" alt="coding" width="400" style="border-radius: 10px;" src="/images/img.jpg" />
+
 
 ## 💻 Languages and Tools
 
