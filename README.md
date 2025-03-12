@@ -75,7 +75,7 @@
   </div>
   
   <div align="center">
-    <img src="https://raw.githubusercontent.com/Hike-12/Hike-12/main/dist/github-snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/Hike-12/Hike-12/output/github-snake.svg" alt="Snake animation" />
   </div>
 
 </div>
