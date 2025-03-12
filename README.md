@@ -70,11 +70,13 @@
     </p>
   </div>
   
+  <div style="filter: hue-rotate(240deg);">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hike-12/snk/manual-run-output/only-svg/github-contribution-grid-snake-blue.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hike-12/snk/manual-run-output/only-svg/github-contribution-grid-snake-blue.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hike-12/snk/manual-run-output/only-svg/github-contribution-grid-snake-blue.svg">
   </picture>
+</div>
 
 </div>
 
