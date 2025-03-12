@@ -1,4 +1,8 @@
-![Snake animation](https://github.com/Hike-12/Hike-12/raw/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/snk/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/snk/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR-USERNAME/snk/output/github-snake.svg">
+</picture>
 <div style="background-color: black; padding: 20px; border-radius: 10px; color: white;">
 
   <h1 align="center">Hi 👋, I'm Aliqyaan Mahimwala</h1>
