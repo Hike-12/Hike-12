@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hike-12/snk/manual-run-output/only-svg/github-contribution-grid-snake-blue.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hike-12/snk/manual-run-output/only-svg/github-contribution-grid-snake-blue.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hike-12/snk/manual-run-output/only-svg/github-contribution-grid-snake-blue.svg">
-</picture>
+
 <div style="background-color: black; padding: 20px; border-radius: 10px; color: white;">
 
   <h1 align="center">Hi 👋, I'm Aliqyaan Mahimwala</h1>
@@ -74,9 +70,11 @@
     </p>
   </div>
   
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/Hike-12/Hike-12/output/github-snake.svg" alt="Snake animation" />
-  </div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hike-12/snk/manual-run-output/only-svg/github-contribution-grid-snake-blue.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hike-12/snk/manual-run-output/only-svg/github-contribution-grid-snake-blue.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hike-12/snk/manual-run-output/only-svg/github-contribution-grid-snake-blue.svg">
+  </picture>
 
 </div>
 
