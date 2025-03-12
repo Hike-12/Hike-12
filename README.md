@@ -3,7 +3,7 @@
   <h3>A passionate web developer from India</h3>
 </div>
 
-<img align="right" alt="coding" width="400" style="border-radius: 10px;" src="/images/img.jpg" />
+<img align="right" alt="coding" width="400" style="border-radius: 10px;" src="/img/img.jpg" />
 
 
 ## 💻 Languages and Tools
