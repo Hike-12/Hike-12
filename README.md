@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/Hike12/Hike12/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Hike-12/Hike-12/raw/output/github-contribution-grid-snake.svg)
 <div style="background-color: black; padding: 20px; border-radius: 10px; color: white;">
 
   <h1 align="center">Hi 👋, I'm Aliqyaan Mahimwala</h1>
