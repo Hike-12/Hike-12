@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Aliqyaan Mahimwala</h1>
-  <h3>A passionate web developer from India</h3>
+  <h3>Hi! I'm a full-stack developer passionate about backend development. I love tweaking code to create user-friendly websites, focusing on building robust systems with Django and React. I'm always eager to learn and improve my skills, aiming to create reliable foundations that users can depend on.</h3>
 </div>
 
 
