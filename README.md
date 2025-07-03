@@ -8,7 +8,8 @@
   <img src="https://img.shields.io/github/stars/Hike-12?label=Stars&style=social" alt="GitHub stars" />
 </div>
 
-<img align="right" alt="coding" width="400" style="border-radius: 10px;" src="/images/img.jpg" />
+
+
 
 ## 🚀 About Me
 
@@ -138,10 +139,10 @@
 ## 🐍 Contribution Snake
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hike-12/snk/manual-run-output/only-svg/github-contribution-grid-snake-blue.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hike-12/snk/manual-run-output/only-svg/github-contribution-grid-snake-blue.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hike-12/snk/manual-run-output/only-svg/github-contribution-grid-snake-blue.svg">
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Hike-12/Hike-12/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Hike-12/Hike-12/blob/manual-run-output/docker/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake Contribution Animation" src="https://github.com/Hike-12/Hike-12/blob/manual-run-output/docker/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 ## 🎯 Featured Projects
