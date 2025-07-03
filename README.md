@@ -144,17 +144,6 @@
 </picture>
 </div>
 
-## 🎯 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Hike-12/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hike-12&repo=project1&theme=blue-green&hide_border=true" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/Hike-12/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hike-12&repo=project2&theme=blue-green&hide_border=true" alt="Project 2"/>
-  </a>
-</div>
-
 ## 🤝 Connect with me
 
 <div align="center">
@@ -167,9 +156,20 @@
   <a href="https://instagram.com/aliqyaan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
-  <a href="mailto:aliqyaan@example.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
+  <a href="mailto:aliqyaan12@gmail.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="40" style="background-color: white; padding: 5px; border-radius: 5px; border: 1px solid #ddd;"/>
   </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blue_green" alt="Random Dev Quote"/>
+</div>
+
+<div align="center">
+  <h3>💝 Thanks for visiting my profile! Let's connect and build something amazing together! 💝</h3>
+</div>
 </div>
 
 ---
