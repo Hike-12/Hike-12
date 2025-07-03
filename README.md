@@ -70,16 +70,16 @@
 ### Backend Development
 <p>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="background-color: white; padding: 8px; border-radius: 8px; border: 1px solid #ddd;"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background-color: white; padding: 8px; border-radius: 8px; border: 1px solid #ddd;"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" style="background-color: white; padding: 8px; border-radius: 8px; border: 1px solid #ddd;"/>
   </a>
 </p>
 
@@ -114,7 +114,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="background-color: white; padding: 8px; border-radius: 8px; border: 1px solid #ddd;"/>
   </a>
 </p>
 
@@ -128,7 +128,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hike-12&theme=blue-green&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Hike-12&theme=blue-green&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
