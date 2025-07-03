@@ -16,7 +16,7 @@
 -  I'm currently learning **Advanced React, Node.js, and Cloud Technologies**
 -  I'm looking to collaborate on **Open Source Projects**
 -  Ask me about **Web Development, Python, React, and Django**
--  How to reach me: **aliqyaan@example.com**
+-  How to reach me: **aliqyaan12@gmail.com**
 -  Fun fact: **I love turning coffee into code! ☕**
 
 ## 🏆 GitHub Trophies
