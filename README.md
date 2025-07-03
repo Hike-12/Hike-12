@@ -13,12 +13,12 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Full Stack Web Applications**
-- 🌱 I'm currently learning **Advanced React, Node.js, and Cloud Technologies**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, Python, React, and Django**
-- 📫 How to reach me: **aliqyaan@example.com**
-- ⚡ Fun fact: **I love turning coffee into code! ☕**
+-  I'm currently working on **Full Stack Web Applications**
+-  I'm currently learning **Advanced React, Node.js, and Cloud Technologies**
+-  I'm looking to collaborate on **Open Source Projects**
+-  Ask me about **Web Development, Python, React, and Django**
+-  How to reach me: **aliqyaan@example.com**
+-  Fun fact: **I love turning coffee into code! ☕**
 
 ## 🏆 GitHub Trophies
 <div align="center">
