@@ -63,23 +63,23 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
   </a>
 </p>
 
 ### Backend Development
 <p>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="background-color: white; padding: 8px; border-radius: 8px; border: 1px solid #ddd;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background-color: white; padding: 8px; border-radius: 8px; border: 1px solid #ddd;"/>
+    <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" style="background-color: white; padding: 8px; border-radius: 8px; border: 1px solid #ddd;"/>
+    <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
   </a>
 </p>
 
@@ -95,7 +95,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
@@ -114,7 +114,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="background-color: white; padding: 8px; border-radius: 8px; border: 1px solid #ddd;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   </a>
 </p>
 
@@ -126,11 +126,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hike-12&show_icons=true&theme=blue-green&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hike-12&show_icons=true&theme=blue-green&layout=compact&hide_border=true" alt="Top Languages"/>
 </div>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hike-12&theme=blue-green&hide_border=true" alt="GitHub Streak"/>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-lac.vercel.app?user=Hike-12&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hike-12&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
 </div>
@@ -157,19 +155,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
   <a href="mailto:aliqyaan12@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="40" style="background-color: white; padding: 5px; border-radius: 5px; border: 1px solid #ddd;"/>
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="email" height="30" width="40"/>
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blue_green" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
-  <h3>💝 Thanks for visiting my profile! Let's connect and build something amazing together! 💝</h3>
-</div>
 </div>
 
 ---
