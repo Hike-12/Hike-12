@@ -11,7 +11,7 @@
         justify-content: center;
         align-items: center;
         height: 100vh;
-        background: #000; /* fallback background */
+        background: linear-gradient(180deg, #0f0f0f, #1a1a1a); /* Dark gradient */
       }
       model-viewer {
         width: 100%;
@@ -25,11 +25,9 @@
                   alt="GitHub Skyline"
                   auto-rotate
                   camera-controls
-                  exposure="1.3"
+                  exposure="1.4"
                   shadow-intensity="1"
                   shadow-softness="0.9"
-                  environment-image="https://modelviewer.dev/shared-assets/environments/spruit_sunrise_1k_HDR.hdr"
-                  skybox-image="https://modelviewer.dev/shared-assets/environments/spruit_sunrise_1k_HDR.hdr"
                   shadow-field-of-view="60deg">
     </model-viewer>
   </body>
