@@ -133,6 +133,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hike-12&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
 </div>
 
+<p align="center">
+  Check out my 3D GitHub Skyline → <a href="https://hike-12.github.io/Hike-12/">Live Demo</a>
+</p>
+
+
 ## 🐍 Contribution Snake
 <div align="center">
   <picture>
